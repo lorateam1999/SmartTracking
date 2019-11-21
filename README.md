@@ -1,4 +1,4 @@
-#SmartTracking
+## SmartTracking
 - Download git 
 - Tạo thư mục mới có tên là Git
 - Vào thư mục nhấn chuột phải. Tiếp theo chọn Git Bash Here. Một terminal sẽ xuất hiện.
