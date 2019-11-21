@@ -2,7 +2,7 @@
 - Download git 
 - Tạo thư mục mới có tên là Git
 - Vào thư mục nhấn chuột phải. Tiếp theo chọn Git Bash Here. Một terminal sẽ xuất hiện.
-- Nhập câu lệnh git clone + url, theo repos này thì sẽ như thế này:
+- Nhập câu lệnh git clone + url, trong repository này thì sẽ như thế này:
 
   git clone :https://github.com/lorateam1999/SmartTracking
   
