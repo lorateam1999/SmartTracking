@@ -14,4 +14,5 @@
 - Code xong thì commit lên branch riêng đấy của từng phần: git commit -m "Feature hien thi .... xong"
 - Đẩy code lên account cá nhân: git push origin <brach phần mình làm> 
  Ví dụ: git push origin Appcode
-# trước mắt cứ làm vậy. nếu có xảy ra xung đột khi đẩy code thì nói ta hỉ.
+ 
+ trước mắt cứ làm vậy. nếu có xảy ra xung đột khi đẩy code thì nói ta hỉ.
